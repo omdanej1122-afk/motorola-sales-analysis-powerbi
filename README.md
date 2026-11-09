@@ -1,1 +1,1 @@
-# motorola-sales-analysis-powerbi
+A Power BI project focused on analyzing Motorola sales data to explore sales trends, customer purchasing behavior, and product performance through data cleaning, transformation, and interactive visualizations.
